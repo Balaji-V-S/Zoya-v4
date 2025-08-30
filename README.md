@@ -1,6 +1,6 @@
 # Zoya – Your Personalized Local AI Agent  
 
-Zoya is a **personalized AI agent** that runs **entirely on your local machine** – ensuring **privacy, control, and efficiency**.  
+Zoya v2 is a **personalized AI agent** that runs **entirely on your local machine** – ensuring **privacy, control, and efficiency**.  
 Powered by **quantized models**, Zoya is optimized to run smoothly on CPUs today and will soon support **next-gen NPUs** (Intel Ultra, Apple Silicon, etc.) for faster and more efficient execution.  
 
 ---
@@ -8,7 +8,7 @@ Powered by **quantized models**, Zoya is optimized to run smoothly on CPUs today
 ## 🚀 Features
 - 🔒 **Private by design** – all inference happens on-device, no cloud dependency.  
 - ⚡ **Quantized models** – lightweight, fast, and resource-friendly.  
-- 🖥️ **CPU-optimized** – current version runs smoothly without GPU requirements.  
+- 🖥️ **CPU-optimized** – current version runs smoothly without GPU requirements(v3).  
 - 🧠 **Personalized AI agent** – adaptable for your unique workflows and tasks.  
 - 🔮 **Future-ready** – upcoming NPU-accelerated architecture for even faster inference.  
 
